@@ -1,0 +1,50 @@
+* {
+    font-family: Verdana, Lucida Sans, Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0px auto;
+    background-color:#222;
+}
+
+.contents {
+	
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	height:320px;
+}
+
+
+.content-text {
+	font-weight:bold;
+	font-size:36px;
+	color:#fff;
+}
+
+.top {
+	vertical-align: top;
+	margin-top: 80px;
+	text-align: center;
+}
+
+.bottom {
+	vertical-align: bottom;
+	margin-top: 80px;
+	text-align: center;
+}
+
+.left {
+	float: left;
+	
+	color: red;
+	font-size: 150px;
+	display: inline;
+}
+
+.right {
+	float: right;
+	
+	color: green;
+	font-size: 150px;
+	display: inline;
+}
